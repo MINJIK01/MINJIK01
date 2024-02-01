@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on BMW Korea IT department.
-
+<div>
+  🔭 I’m currently working on BMW Korea IT department.
+</div>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
 
 
 <!--
