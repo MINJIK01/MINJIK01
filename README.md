@@ -10,7 +10,6 @@
 </div>
 
 <p align="center">
-    <h3>❤Language I love❤</h3>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/>&nbsp
 </p>
