@@ -17,7 +17,7 @@
 </div>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINJIK01)](https://github.com/MINJIK01/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINJIK01)](https://github.com/MINJIK01/github-readme-stats)
 
 
 <!--
