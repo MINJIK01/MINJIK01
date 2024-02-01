@@ -17,9 +17,12 @@
 </div>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINJIK01)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+<p align="center">
+  <a href="https://github.com/MINJIK01">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINJIK01&layout=compact&show_icons=true&show_owner=true&theme=nord" />
+  </a>
+</p>
 
 
 
