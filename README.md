@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-<div>
+<div align="center">
+  👩‍💻 I'm majoring in Statistics and Computer Science and Engineering.
+  🌱 I’m currently learning GNN.
   🔭 I’m currently working on BMW Korea IT department.
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/>&nbsp
+  </p>
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
-</p>
 
 
 <!--
