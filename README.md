@@ -6,6 +6,8 @@
   </p>
   <p>
     🌱 I’m currently researching the method of using Graph to improve Language Model.
+  </p>
+  <p>
     🙋‍♀️ I joined LearnDataLab in SKKU as a researcher from 04/03/2024! Feel free to contact me! :)
   </p>
 </div>
