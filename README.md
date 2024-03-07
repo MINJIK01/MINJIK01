@@ -5,7 +5,8 @@
     👩‍💻 I'm majoring in Statistics and Computer Science and Engineering.
   </p>
   <p>
-    🌱 I’m currently learning GNN.
+    🌱 I’m currently researching the method of using Graph to improve Language Model.
+    🙋‍♀️ I joined LearnDataLab in SKKU as a researcher from 04/03/2024! Feel free to contact me! :)
   </p>
 </div>
 
