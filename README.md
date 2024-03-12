@@ -7,9 +7,6 @@
   <p>
     🌱 I’m currently researching the method of using Graph to improve Language Model.
   </p>
-  <p>
-    🙋‍♀️ I joined LearnDataLab in SKKU as a researcher from 04/03/2024! Feel free to contact me! :)
-  </p>
 </div>
 
 <h3 align="center">❤Language I Love❤</h3>
@@ -30,6 +27,9 @@
 
 <!--
 **MINJIK01/MINJIK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    🙋‍♀️ I joined LearnDataLab in SKKU as a researcher from 04/03/2024! Feel free to contact me! :)
+  </p>
 
 Here are some ideas to get you started:
 
