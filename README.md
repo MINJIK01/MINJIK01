@@ -2,10 +2,10 @@
 
 <div>
   <p>
-    👩‍💻 I'm majoring in Statistics and Computer Science and Engineering.
+    👩‍💻 I'm majoring in Artificial intelligence.
   </p>
   <p>
-    🌱 I’m currently researching the method of using Graph to improve Language Model.
+    🌱 I’m currently researching the method of using Graph to improve the Language Model.
   </p>
 </div>
 
