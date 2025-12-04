@@ -2,18 +2,12 @@
 
 <div>
   <p>
-    👩‍💻 I'm majoring in Artificial intelligence.
+    👩‍💻 I'm majoring in Artificial Intelligence.
   </p>
   <p>
-    🌱 I’m currently researching the method of using Graph to improve the Language Model.
+    🌱 I’m currently interested in building hierarchical memory in the Large Language Models.
   </p>
 </div>
-
-<h3 align="center">❤Language I Love❤</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/>&nbsp
-</p>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 
