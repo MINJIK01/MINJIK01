@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there, Welcome to my world! ⚡
 
 <div>
   <p>
-    👩‍💻 I'm majoring in Artificial Intelligence.
+    🚀 I'm an enthusiastic student majoring in <b>Artificial Intelligence</b>.
   </p>
   <p>
-    🌱 I’m currently interested in building hierarchical memory in the Large Language Models.
+    🧠 Currently diving deep into building <b>hierarchical memory</b> in Large Language Models.
+  </p>
+  <p>
+    🌏 Proudly contributing to the <b>AIRI</b> project as a translator to bridge the language gap.
+  </p>
+  <p>
+    ✨ Dreaming of a vibrant future coexisting with <b>AI Humans & AI Companions</b>!
   </p>
 </div>
 
