@@ -8,7 +8,7 @@
     🧠 Currently diving deep into building <b>hierarchical memory</b> in Large Language Models.
   </p>
   <p>
-    🌏 Proudly contributing to the <b>AIRI</b> project as a translator to bridge the language gap.
+    🌏 Proudly contributing to the <b>AIRI</b> project!!!
   </p>
   <p>
     ✨ Dreaming of a vibrant future coexisting with <b>AI Humans & AI Companions</b>!
