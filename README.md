@@ -1,7 +1,8 @@
 ### Hi there, Welcome to my world! ⚡
 
 <div>
-  <p>🚀 MS student in <b>Artificial Intelligence</b> @ Sungkyunkwan University</p>
+  <p> AI Research Intern @ Netmarble</p>
+  <p>🚀 MS graduate in <b>Artificial Intelligence</b> @ Sungkyunkwan University</p>
   <p>🧠 Researching <b>memory trajectories in LLMs</b> & knowledge graph reasoning</p>
   <p>📄 Published at <b>ACL 2025 Findings</b> · Knowledge Graph QA</p>
   <p>🌏 Dreaming of AI Humans &amp; AI Companions ✨</p>
